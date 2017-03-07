@@ -1,0 +1,82 @@
+﻿@font-face {
+    font-family: 'gess';
+    src: url(GESSTwoMedium.woff);
+}
+p { 
+    color: #333; 
+    font: 400 0.8em verdana,arial,sans-serif;
+}
+h1 {
+    color: #333;
+    font-size: 150%;
+}
+#login, #contact, #register, #map {
+    padding: 30px 0;
+    width: auto;
+    margin: 0 auto;
+}
+
+#header {
+    width: 90%;
+    margin: auto;
+    height: auto;
+    line-height: normal;
+    vertical-align: center;
+    text-align: middle;
+}
+#footer { 
+    bottom: 1px;
+    clear: both;
+    color: #235a81;
+    height: 23px;
+    padding-top: 0;
+    position: fixed;
+    width: 100%;
+    font: 400 0.8em verdana,arial,sans-serif;
+}
+#terms {
+    text-align: left;
+    margin: auto;
+}
+body {
+    height: 90%;
+    width: 100%;
+    margin: 5% auto 0 auto;
+    padding: 0;
+    text-align: center;
+    font: 400 0.8em verdana,arial,sans-serif;
+    line-height: 170%;
+    background: #e5e5e5;
+    color: #333;
+}
+#openid_url {
+    background: url(openid.gif) no-repeat;
+    background-color: #fff;
+    background-position: 0 50%;
+    color: #000;
+    padding-left: 18px;
+}
+#openid-label,#login-label {
+    font-size: smaller;
+    line-height: 14px;
+    vertical-align: middle;
+}
+
+.ticker {
+    width: 300px;
+    color:#c2932e;
+    margin: 30px auto;
+    font-family: 'gess';
+    font-size: 20px;
+    padding: 8px;
+}
+
+
+.widget {
+    padding: 30px 0;
+}
+
+.image {
+    height: 48px;
+    width: 48px;
+}</pre></body></html>
